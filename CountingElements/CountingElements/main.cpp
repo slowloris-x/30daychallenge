@@ -4,9 +4,7 @@
 //
 //  Created by Redouane Bouzekri on 4/9/20.
 //  Copyright © 2020 Redouane Bouzekri. All rights reserved.
-// Problem set :
-//Given an integer array arr, count element x such that x + 1 is also in arr.
-//If there're duplicates in arr, count them seperately.
+
 
 #include <iostream>
 #include <vector>
