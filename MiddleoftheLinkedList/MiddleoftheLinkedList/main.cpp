@@ -39,7 +39,6 @@ ListNode* middleNode(ListNode* head) {
         
 }
 int main(int argc, const char * argv[]) {
-   // [1,2,3,4,5]
      ListNode* sample = new ListNode;
     sample->val = 1;
     sample->next = new ListNode;
