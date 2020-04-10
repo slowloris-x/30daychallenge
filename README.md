@@ -1,4 +1,4 @@
-#Challenge Overview
+Challenge Overview
 
 It is a LeetCoding Challenges, where LeetCoding challenge participants to solve a different problem every day. 
 
